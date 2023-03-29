@@ -18,7 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" witdh="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" witdh="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" witdh="40" height="40" />&nbsp;
-  
 </div>
 
 <div class=badges align=left>
@@ -27,6 +26,6 @@
        alt=profile_views
        align=center
        style="margin-right: 20px; margin-bottom: -10px"
-       src=https://komarev.com/ghpvc/?username=JoaoCamo&style=flat&color=brightgreen>
+       src=https://komarev.com/ghpvc/?username=JoaoCamo&style=flat&color=brightblue>
     </a> 
 </div>
