@@ -26,6 +26,6 @@
        alt=profile_views
        align=center
        style="margin-right: 20px; margin-bottom: -10px"
-       src=https://komarev.com/ghpvc/?username=JoaoCamo&style=flat&color=brightblue>
+       src=https://komarev.com/ghpvc/?username=JoaoCamo&style=flat&color=lightblue>
     </a> 
 </div>
