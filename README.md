@@ -7,7 +7,6 @@
   <h3>Hi there 🤗.</a></h3>
   <ul>
     <li>🔭 I’m currently working with software development using Unity and C#</li>
-    <li>⛩️ I like <a href="https://en.touhouwiki.net">Touhou Project</a></li>
   </ul>
 </div>
 
