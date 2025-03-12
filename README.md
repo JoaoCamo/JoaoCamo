@@ -18,13 +18,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" witdh="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" witdh="40" height="40" />&nbsp;
 </div>
-
-<div class=badges align=left>
-    <a href=https://github.com/JoaoCamo>
-      <img
-       alt=profile_views
-       align=center
-       style="margin-right: 20px; margin-bottom: -10px"
-       src=https://komarev.com/ghpvc/?username=JoaoCamo&style=flat&color=blue>
-    </a> 
-</div>
