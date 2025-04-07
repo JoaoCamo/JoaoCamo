@@ -3,7 +3,6 @@
      alt=stats1
      align=right
      style="object-fit: none; object-position: 0 -50px;"
-     src=https://github-readme-stats.vercel.app/api?username=JoaoCamo&count_private=true&show_icons=true&theme=tokyonight>
   <h3>Hi there 🤗</a></h3>
   <ul>
   </ul>
