@@ -1,8 +1,4 @@
 <div class=stats>
-    <img
-     alt=stats1
-     align=right
-     style="object-fit: none; object-position: 0 -50px;"
   <h3>Hi there 🤗</a></h3>
   <ul>
   </ul>
