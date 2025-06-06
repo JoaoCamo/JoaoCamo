@@ -32,6 +32,6 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/joao-camillo-moura)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joao-camillo-moura)
 - 🎮 [My Games](https://jocamo.itch.io/)
 - ✉️ joaocamo@gmail.com
