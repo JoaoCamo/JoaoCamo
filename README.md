@@ -10,7 +10,7 @@
 
 - 💼 Junior Developer at Anexo Info
 - 🎮 Passionate about game development
-- 🚀 Always excited to learn new technologies and push the boundaries of interactive software
+- 🚀 Always excited to learn new technologies and push the boundaries of software
 
 ---
 
