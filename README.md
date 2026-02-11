@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤗, I'm João </h1>
 
 <p align="center">
-  🎮 Game Developer • 👨‍💻 Software Engineer
+  👨‍💻 Software Engineer • 🎮 Game Developer
 </p>
 
 ---
